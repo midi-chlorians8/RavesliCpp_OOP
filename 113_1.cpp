@@ -1,3 +1,4 @@
+// https://ravesli.com/urok-113-klassy-obekty-i-metody-klassov/
 #include <iostream>
 using namespace std;
 
